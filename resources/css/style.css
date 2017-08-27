@@ -1,0 +1,31 @@
+h1 {
+  font-size: 50px;
+  background-color: black;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h1, h2, p, #excursionText {
+  font-family: Verdana;
+  text-align: center;
+}
+
+.comingSoon{
+  color: aquamarine;
+}
+
+.headText{
+  color:white;
+}
+
+.copyright, #excursionText {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  text-align: right;
+}
